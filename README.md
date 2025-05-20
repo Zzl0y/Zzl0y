@@ -1,6 +1,6 @@
 # Hi there 👋, I’m Zl0y
 
-- 🔭 I’m working in the Red Team of Parasite.tech.
+- 🔭 I’m working in the Red Team of HackTeam.Red
 - 🤪 I’m currently learning Active Directory Pentesting and Red Team Ops.
 - 💞️ I’m looking to collaborate with Cyber Security Enthusiasts and Hackers.
 
