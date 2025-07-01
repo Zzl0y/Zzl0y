@@ -6,7 +6,7 @@
 - 🤪 I’m currently learning Active Directory Pentesting and Red Team Ops.
 - I’m looking to collaborate with Cyber Security Enthusiasts and Hackers.
 
-![Zzl0y's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zzl0y&theme=midnight-purple&hide_border=true)  ![Zzl0y's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zzl0y&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+![Zzl0y's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zzl0y&theme=midnight-purple&hide_border=true) ![Zzl0y's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zzl0y&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 <!---
 Zzl0y/Zzl0y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
